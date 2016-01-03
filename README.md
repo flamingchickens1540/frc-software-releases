@@ -194,6 +194,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) | [Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) | [White paper](http://www.chiefdelphi.com/media/papers/3189)
 
+## Team 4480: UC-Botics
+
+> Our bot was just the basic lifter with teeth in the front to latch onto the totes and cans. For the autonomous mode, the robot just drives forward.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140861) | [Robot Code on GitHub](https://github.com/bb20basketball/2015-Team4480-Code/)
+
 ## Team 4561: TerrorBytes
 
 > Our robot has a mecanum drive train, an elevator, a telescoping arm, and a pneumatic claw. This is its code.

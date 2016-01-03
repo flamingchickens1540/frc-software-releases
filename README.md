@@ -196,7 +196,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 ## Team 4480: UC-Botics
 
-> Our bot was just the basic lifter with teeth in the front to latch onto the totes and cans. For the autonomous mode, the robot just drives forward.
+> This is the first year we used Python as the primary programming of the robot. The code is pretty basic for our lifter, but the code provides a decent template for future teams to try Python. We had a good experience with it because of the support of the developers of RobotPy.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140861) | [Robot Code on GitHub](https://github.com/bb20basketball/2015-Team4480-Code/)
 

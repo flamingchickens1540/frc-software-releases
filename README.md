@@ -28,11 +28,7 @@ Quotes are not necessarily verbatim.
 
 >  We experimented with Feed Forward and Motion Profiling in the fall. With some tuning, I was able to get our 2015 bot and a kitbot to go any distance I wanted without encoders (within an inch or two). I am still working on the integration with Feedback to make it more accurate and the latest code will be available on Github. This project may not be able to be opened until Kickoff because older versions of LabVIEW do not support projects built under Beta.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140790) | 
-[Robot Code on team website](http://team624.org/files/624%202015%20Code%20Release.zip) |
-[Robot Code from Beta 2015](http://team624.org/files/624-Feed-Forward-R-D.zip) |
-[Team Website](http://team624.org/?controller=page&action=programmingResources) |
-[GitHub](https://github.com/Team624)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140790) | [Robot Code on team website](http://team624.org/files/624%202015%20Code%20Release.zip) | [Robot Code from Beta 2015](http://team624.org/files/624-Feed-Forward-R-D.zip) | [Team Website](http://team624.org/?controller=page&action=programmingResources) | [GitHub](https://github.com/Team624)
 
 ## Team 971: Spartan Robotics
 
@@ -41,46 +37,37 @@ Quotes are not necessarily verbatim.
 > * We recently switched from an older build system based mainly on GYP files to Bazel, which is the publicly-available version of Google's build system
 > * All robots included in this snapshot (2014 competition robot (Mammoth), 2014 3rd robot (Butterknife), 2015 competition robot (Subzero), and 2015 third robot (Robonauts?)) are up-to-date for the RoboRIO and other 2015 FIRST control system components
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140568) |
-[Robot Code on team website](http://robotics.mvla.net/spartanrobotics/releases/src/2015_code.tar.gz) |
-[General software info on team website](http://frc971.org/content/2015-software) |
-[CAD on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?threadid=137883) |
-[Team Website](http://frc971.org/)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140568) | [Robot Code on team website](http://robotics.mvla.net/spartanrobotics/releases/src/2015_code.tar.gz) | [General software info on team website](http://frc971.org/content/2015-software) | [CAD on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?threadid=137883) | [Team Website](http://frc971.org/)
 
 ## Team 1701: RoboCubs
 
 > This year we used the new AndyMark Swerve Drives.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137028) |
-[Robot Code on GitHub](https://github.com/bh202548/Robocubs-Code-2015/)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137028) | [Robot Code on GitHub](https://github.com/bh202548/Robocubs-Code-2015/)
 
 ## Team 1939: Kuhnigits
 
 > This year was exciting for the programming team. New control techniques such as PID were explored, and new Talon SRX speed controllers made programming and wiring easier. Our team believes heavily in the WPILib programming model of Subsystems and Commands. All of our code follows this Command Based model.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=139606) |
-[Robot Code on GitHub](https://github.com/FIRST1939/RecycleRush2015)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=139606) | [Robot Code on GitHub](https://github.com/FIRST1939/RecycleRush2015)
 
 ## Team 2122: Team Tators
 
 > As one of our seniors put it, "Wow this is some cool code for you!" I couldn't have put it more eloquently.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137296) |
-[Robot Code on GitHub](https://github.com/Team2122/Kartoshka)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137296) | [Robot Code on GitHub](https://github.com/Team2122/Kartoshka)
 
 ## Team 2485: WARLords
 
 > Our Sequencer Factory class enabled us to rapidly create and modify auto sequences, which could also be used in teleop.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136899)
-[Robot Code on GitHub](https://github.com/team2485/frc-2015)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136899) | [Robot Code on GitHub](https://github.com/team2485/frc-2015)
 
 ## Team 3081: Kennedy RoboEagles
 
 > There are several good examples of combining state machines with the Command-Based Robot framework.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140791) |
-[Robot Code on GitHub](https://github.com/KennedyRoboEagles/PublicRobotCode)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140791) | [Robot Code on GitHub](https://github.com/KennedyRoboEagles/PublicRobotCode)
 
 ## Team 3467: The Windham Windup
 
@@ -96,6 +83,4 @@ Quotes are not necessarily verbatim.
 > * UDP reception of JSON encoded data from an onboard co-processor.
 > * adding third party jars to the build.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) |
-[Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) |
-[White paper](http://www.chiefdelphi.com/media/papers/3189)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) | [Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) | [White paper](http://www.chiefdelphi.com/media/papers/3189)

@@ -44,9 +44,7 @@ Quotes are not necessarily verbatim.
 >  We ran our robot software department on a code-review setup: everything got developed in a separate branch, pull-requested, and code-reviewed before merge. ]You can see the log of this on the project page.](https://github.com/flamingchickens1540/quasar-helios-2015/pulls?q=is%3Apr+is%3Aclosed) 107 pull requests!
 > This ended up working really well for us - it allowed us to edit each other's code to be higher quality in a way that gave everyone rapid feedback and allowed team members to become much better programmers over the course of the season.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137255)
-[Robot Code on GitHub](https://github.com/flamingchickens1540/quasar-helios-2015)
-[GitHub](https://github.com/flamingchickens1540)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137255) | [Robot Code on GitHub](https://github.com/flamingchickens1540/quasar-helios-2015) | [GitHub](https://github.com/flamingchickens1540)
 
 ## Team 1701: RoboCubs
 

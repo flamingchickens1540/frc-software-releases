@@ -88,6 +88,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137483) | [Robot Code on Chief Delphi](http://www.chiefdelphi.com/media/papers/3152?)
 
+## Team 1768: Robochiefs
+
+> 2015's code features code to connect to an arduino over ethernet ([code for the rest of the arduino](https://github.com/Nashoba-Robotics/CoffinLED)), PID with feed forward, and more.
+
+[2015 Robot Code on GitHub](https://github.com/Nashoba-Robotics/Nashoba-Robotics2015) | [All future/past code on GitHub](https://github.com/Nashoba-Robotics)
+
 ## Team 1939: Kuhnigits
 
 > This year was exciting for the programming team. New control techniques such as PID were explored, and new Talon SRX speed controllers made programming and wiring easier. Our team believes heavily in the WPILib programming model of Subsystems and Commands. All of our code follows this Command Based model.

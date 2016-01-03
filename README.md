@@ -1,7 +1,9 @@
 # FRC Software Releases
 A big list of all the FRC team software releases from recent years!
 
-Quotes are not necessarily verbatim.
+Want to add something about your code, or don't like how your team's work shows up? Send a pull request!
+
+Also, note that it's not entirely clear that adding your code to this list is sufficient to count as a code release. You are recommended to create a Chief Delphi thread and then add your team's code to this list.
 
 # 2015 season code
 

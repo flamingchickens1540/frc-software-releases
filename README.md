@@ -64,6 +64,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=139606) | [Robot Code on GitHub](https://github.com/FIRST1939/RecycleRush2015)
 
+## Team 2062: C.O.R.E 2062
+
+>  This year we added a better way of examining match data by putting match data onto a file that we can look on after a match. We also experimented heavily with PID and added some functionality in the library to compliment it in the future. Lastly we tried to find a better way to manage the smartdashboard but it is currently incomplete and will most likely be finished in the of season. Other than that there were a few minor tweaks and additions.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=123909) | [Robot Code on GitHub](https://github.com/core2062/CORE2015/)
+
 ## Team 2084: Robots by the C
 
 > * Flexible drive system that makes it easy to implement different drive systems. The mecanum code features support for gyros and wheel encoders, but not everything is fully tested.

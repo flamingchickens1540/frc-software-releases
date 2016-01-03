@@ -70,6 +70,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=123909) | [Robot Code on GitHub](https://github.com/core2062/CORE2015/)
 
+## Team 2067: Apple PI
+
+> The most interesting parts are the Swerve Drive folder, and the AppleScript folder. AppleScript is a scripting language that is used to rapidly develop autonomous code, and is then executed by an interpreter in LabVIEW. The script is stored on the driver station computer, and is sent to the robot over network tables whenever an update is made.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140820) | [Robot Code on GitHub](https://github.com/applepi-2067/Robot-2015)
+
 ## Team 2084: Robots by the C
 
 > * Flexible drive system that makes it easy to implement different drive systems. The mecanum code features support for gyros and wheel encoders, but not everything is fully tested.

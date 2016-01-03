@@ -168,6 +168,11 @@ Also, note that it's not entirely clear that adding your code to this list is su
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140791) | [Robot Code on GitHub](https://github.com/KennedyRoboEagles/PublicRobotCode)
 
 ## Team 3467: The Windham Windup
+> Typical FRC code, just as WPI likes it. There are a few neat features that we added at competitions to meet our needs:
+
+> The 2015 code has a feature where it will not report that the code has "started" until we see that the smart dashboard has connected - which picks our autonomous mode. We accomplish this by extending IterativeRobot.class (ours is IterativeRobotCustom) and not executing the line that tells the FMS the code has started (FRC.ObserveUserProgramStarting()) until we receive a user's click on a smart dashboard item.
+
+> Also, the 2015 code will crash the code (throws an exception) if the driver's joystick calibrates improperly. When this happens, the LED strip on the driver console lights up bright red and the user needs to restart the code and recalibrate the stick (unplug and plug back in, hit F1). This code also has an implementation of the [PulsedLight LIDAR-lite](https://engineering.purdue.edu/477grp7/datasheets/lidar.pdf) module, and changes the colors of the driver station LEDs according to the distance, which helps us line up at the human feeder station.
 
 [Robot Code on GitHub](https://github.com/WHS-FRC-3467/Skip-5.5) | [GitHub](https://github.com/whs-frc-3467)
 

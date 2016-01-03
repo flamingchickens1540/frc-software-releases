@@ -175,7 +175,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 ## Team 3322: Eagle Imperium
 
-> If you have any questions about any of our code, feel free to ask.  Apologies for the messyness of the source.
+> If you have any questions about any of our code, feel free to ask.  Apologies for the messyness of the source, our branches are kinda screwy right now, but WIP_secret_weapon is our main code branch.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140864) | [Robot Code on GitHub](https://github.com/FRC3322/FinalRobot2015)
 

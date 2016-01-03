@@ -101,6 +101,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137180) | [Robot Code on GitHub](https://github.com/TripleHelixProgramming/recycle-rush/tree/working_branch) | [GitHub](https://github.com/TripleHelixProgramming)
 
+## Team 2481: Roboteers
+
+> A couple things we would like to call out are the 3 tote autonomous sequence and our fully autonomous stacker. We attribute much of our success to our automated sequences that allowed the drivers to focus on playing the game at a higher level.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=138077) | [Robot Code on GitHub](https://github.com/Frc2481/frc-2015)
+
 ## Team 2485: WARLords
 
 > Our Sequencer Factory class enabled us to rapidly create and modify auto sequences, which could also be used in teleop.

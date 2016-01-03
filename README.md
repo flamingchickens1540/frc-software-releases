@@ -49,4 +49,14 @@ Here's a few to get us started:
 
 ## Team 3620: The Average Joes
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729)
+> Most of the code is pretty typical FRC code (complete with warts). There are a few unusual things in there, though, that other teams may find useful:
+> 
+> * event logging.
+> * data logging.
+> * UDP transmission of JSON encoded data to an onboard co-processor.
+> * UDP reception of JSON encoded data from an onboard co-processor.
+> * adding third party jars to the build.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) |
+[Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) |
+[White paper](http://www.chiefdelphi.com/media/papers/3189)

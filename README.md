@@ -24,6 +24,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137843) | [Robot Code on GitHub](https://github.com/Team254/FRC-2015) | [Simulated robot hardware on GitHub](https://github.com/Team254/Sim-FRC-2015) | [Simulator on GitHub](https://github.com/tombot/FakeWPILib) | [GitHub](https://github.com/Team254)
 
+## Team 423: Simple Machines
+
+> As our robot code approaches its zenith, I wanted to share it with the Chief Delphi community for people to learn from, possibly to get suggestions, and to show the world how Simple Machines works.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137627) | [Robot Code on Dropbox](https://www.dropbox.com/sh/ock70bamdmtwp24/AADkortfP3wtt3RPaT1Z3ZTOa?dl=0)
+
 ## Team 624: CRyptonite
 
 >  This includes a library for using CAN Talons in LabVIEW with limited memory overhead, a scripted autonomous structure and text editor with a customizable programming language, and our version of Smart Dashboard which uses UDP instead of Network Tables. It also contains our offseason RGB lights code.
@@ -31,12 +37,6 @@ Also, note that it's not entirely clear that adding your code to this list is su
 >  We experimented with Feed Forward and Motion Profiling in the fall. With some tuning, I was able to get our 2015 bot and a kitbot to go any distance I wanted without encoders (within an inch or two). I am still working on the integration with Feedback to make it more accurate and the latest code will be available on Github. This project may not be able to be opened until Kickoff because older versions of LabVIEW do not support projects built under Beta.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140790) | [Robot Code on team website](http://team624.org/files/624%202015%20Code%20Release.zip) | [Robot Code from Beta 2015](http://team624.org/files/624-Feed-Forward-R-D.zip) | [Team Website](http://team624.org/?controller=page&action=programmingResources) | [GitHub](https://github.com/Team624)
-
-## Team 423: Simple Machines
-
-> As our robot code approaches its zenith, I wanted to share it with the Chief Delphi community for people to learn from, possibly to get suggestions, and to show the world how Simple Machines works.
-
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137627) | [Robot Code on Dropbox](https://www.dropbox.com/sh/ock70bamdmtwp24/AADkortfP3wtt3RPaT1Z3ZTOa?dl=0)
 
 ## Team 971: Spartan Robotics
 

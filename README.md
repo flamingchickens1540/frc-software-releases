@@ -62,6 +62,19 @@ Quotes are not necessarily verbatim.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=139606) | [Robot Code on GitHub](https://github.com/FIRST1939/RecycleRush2015)
 
+## Team 2084: Robots by the C
+
+> * Flexible drive system that makes it easy to implement different drive systems. The mecanum code features support for gyros and wheel encoders, but not everything is fully tested.
+> * ParameterCommand - allows Commands to have parameters that can be set from the SmartDashboard.
+> * State machines to control other robot subsystems.
+> * Semi-functional driver for the ITG3200 gyro (we didn't use it).
+> * Slider - a simple slider control, something that is missing from the built in widgets.
+> * ParameterCommand - widget that displays the parameters from a ParameterCommand on the robot
+> * WheelController - Used in conjunction with our drive code to display throttle, current and other values from our motors.
+> * VideoServer - allows for streaming of any OpenCV image over http as an mjpg. It could probably use some improvement, but it works okay. It was ported from a (non-FRC) C++ version I wrote earlier, which I released [here](http://www.chiefdelphi.com/forums/showpost.php?p=1438448&postcount=36), in case anyone wants to see it.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136411) | [Robot Code on GitHub](https://github.com/RobotsByTheC/CMonster2015) | [SmartDashboard Extensions on GitHub](https://github.com/RobotsByTheC/SmartDashboardExtensions2015) | [Vision Processor on GitHub](https://github.com/RobotsByTheC/VisionProcessor2015) | [GitHub](https://github.com/RobotsByTheC)
+
 ## Team 2122: Team Tators
 
 > As one of our seniors put it, "Wow this is some cool code for you!" I couldn't have put it more eloquently.

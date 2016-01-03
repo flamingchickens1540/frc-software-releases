@@ -90,9 +90,9 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 ## Team 1768: Robochiefs
 
-> 2015's code features code to connect to an arduino over ethernet ([code for the rest of the arduino](https://github.com/Nashoba-Robotics/CoffinLED)), PID with feed forward, and more.
+> 2015's code features code to connect to an arduino over ethernet, PID with feed forward, and more.
 
-[2015 Robot Code on GitHub](https://github.com/Nashoba-Robotics/Nashoba-Robotics2015) | [All future/past code on GitHub](https://github.com/Nashoba-Robotics)
+[Robot Code on GitHub](https://github.com/Nashoba-Robotics/Nashoba-Robotics2015) | [Ardunio Code on GitHub](https://github.com/Nashoba-Robotics/CoffinLED) | [GitHub](https://github.com/Nashoba-Robotics)
 
 ## Team 1939: Kuhnigits
 

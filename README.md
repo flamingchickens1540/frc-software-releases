@@ -101,6 +101,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136873) | [Robot Code on GitHub](https://github.com/2729StormRobotics/Storm2015) | [Arduino LED Code on GitHub](https://github.com/2729StormRobotics/StormArduino2015) | [Vision Code on GitHub](https://github.com/2729StormRobotics/Storm2015CV) | [GitHub](https://github.com/2729StormRobotics)
 
+## Team 3019: Firebirds
+
+> I have decided to post our robot code on cd. Our robot has 4 encoders with an H omni wheel drive. We have a elevator on the front and a pneumatic claw and elevator on the rear.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=135459) | [Robot Code on GitHub](https://github.com/fauge7/Gainz-Robot-Code/tree/master/Gainz/src/org/usfirst/frc/team3019/robot) | [Website](http://www.firebirdrobotics.com/)
+
 ## Team 3081: Kennedy RoboEagles
 
 > There are several good examples of combining state machines with the Command-Based Robot framework.

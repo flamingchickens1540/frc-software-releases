@@ -68,6 +68,12 @@ Quotes are not necessarily verbatim.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137296) | [Robot Code on GitHub](https://github.com/Team2122/Kartoshka)
 
+## Team 2363: Triple Helix
+
+> This was definitely our most complex robot to date. Comments and questions welcome.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137180) | [Robot Code on GitHub](https://github.com/TripleHelixProgramming/recycle-rush/tree/working_branch) | [GitHub](https://github.com/TripleHelixProgramming)
+
 ## Team 2485: WARLords
 
 > Our Sequencer Factory class enabled us to rapidly create and modify auto sequences, which could also be used in teleop.

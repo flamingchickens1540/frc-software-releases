@@ -104,7 +104,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 > The most interesting parts are the Swerve Drive folder, and the AppleScript folder. AppleScript is a scripting language that is used to rapidly develop autonomous code, and is then executed by an interpreter in LabVIEW. The script is stored on the driver station computer, and is sent to the robot over network tables whenever an update is made.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140820) | [Robot Code on GitHub](https://github.com/applepi-2067/Robot-2015)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140820) | [Robot Code on GitHub](https://github.com/applepi-2067/Robot-2015) | [Swerve Drive Powerpoint on Google Drive](https://drive.google.com/open?id=0Byip7vBcYbKmY3lzdEJiclpMRTQ)
 
 ## Team 2084: Robots by the C
 

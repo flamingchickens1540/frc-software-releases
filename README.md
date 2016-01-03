@@ -96,7 +96,7 @@ Quotes are not necessarily verbatim.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) | [Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) | [White paper](http://www.chiefdelphi.com/media/papers/3189)
 
-## Team 4561: 
+## Team 4561: TerrorBytes
 
 > Our robot has a mecanum drive train, an elevator, a telescoping arm, and a pneumatic claw. This is its code.
 

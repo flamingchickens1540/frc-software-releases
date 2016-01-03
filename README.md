@@ -54,6 +54,13 @@ Quotes are not necessarily verbatim.
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=139606) |
 [Robot Code on GitHub](https://github.com/FIRST1939/RecycleRush2015)
 
+## Team 2122: Team Tators
+
+> As one of our seniors put it, "Wow this is some cool code for you!" I couldn't have put it more eloquently.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137296)
+[Robot Code on GitHub](https://github.com/Team2122/Kartoshka)
+
 ## Team 3081: Kennedy RoboEagles
 
 > There are several good examples of combining state machines with the Command-Based Robot framework.

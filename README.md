@@ -41,6 +41,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140568) | [Robot Code on team website](http://robotics.mvla.net/spartanrobotics/releases/src/2015_code.tar.gz) | [General software info on team website](http://frc971.org/content/2015-software) | [CAD on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?threadid=137883) | [Team Website](http://frc971.org/)
 
+## Team 1410: The Kraken
+
+> You may notice two weird things. The first is the array and method at the top of the OI. These are used to add a dead-zone into the controller, making them less sensitive. The second would be the SimultaneousOp CommandGroups in the IntakeArms and CanManipulator Commands folders. These are used so that we can both drive the rollers/arms, and the elevator/arms simultaneously. We could have had a command for this, but by using a command group we can also use the separate commands outside of it.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=135701) | [Robot Code on GitHub](https://github.com/FRC-Team-1410/RR2015-FRC1410)
+
 ## Team 1540: The Flaming Chickens
 
 >  We ran our robot software department on a code-review setup: everything got developed in a separate branch, pull-requested, and code-reviewed before merge. ]You can see the log of this on the project page.](https://github.com/flamingchickens1540/quasar-helios-2015/pulls?q=is%3Apr+is%3Aclosed) 107 pull requests!

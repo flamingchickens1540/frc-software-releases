@@ -119,6 +119,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136899) | [Robot Code on GitHub](https://github.com/team2485/frc-2015)
 
+## Team 2614: MARS
+
+> Of note in this code is our autonomous play infrastructure which is described in the attached document. In summary, the infrastructure uses parameterized commands to develop autonomous plays. Once the basic commands are created, no further modifications to robot code are needed. An external labview application runs on a separate laptop or the driver station laptop. This application connects to the robot and reads the available commands. You then build plays using the commands and adding values for the parameters. Commands can be run sequentially or indicated to be run concurrently. Each play is a separate file stored on the robot which can then be selected from a pulldown menu in the DS. Plays can be rapidly modified and rerun (like on a practice field) because no code deployment is needed.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140812) | [Document on Chief Delphi](http://www.chiefdelphi.com/forums/attachment.php?attachmentid=19617&d=1451782809) | [Robot Code on Chief Delphi](http://www.chiefdelphi.com/forums/attachment.php?attachmentid=19618&d=1451784369) | [Dashboard Code on Chief Delphi](http://www.chiefdelphi.com/forums/attachment.php?attachmentid=19619&d=1451784383)
+
 ## Team 2729: Storm Robotics Team
 
 > Hello! I am a member of Storm Team 2729. I am making our 2015 season's code available to the public.

@@ -80,6 +80,12 @@ Quotes are not necessarily verbatim.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136899) | [Robot Code on GitHub](https://github.com/team2485/frc-2015)
 
+## Team 2729: Storm Robotics Team
+
+> Hello! I am a member of Storm Team 2729. I am making our 2015 season's code available to the public.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136873) | [Robot Code on GitHub](https://github.com/2729StormRobotics/Storm2015) | [Arduino LED Code on GitHub](https://github.com/2729StormRobotics/StormArduino2015) | [Vision Code on GitHub](https://github.com/2729StormRobotics/Storm2015CV) | [GitHub](https://github.com/2729StormRobotics)
+
 ## Team 3081: Kennedy RoboEagles
 
 > There are several good examples of combining state machines with the Command-Based Robot framework.

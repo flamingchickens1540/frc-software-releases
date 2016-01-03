@@ -180,7 +180,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 > Also, the 2015 code will crash the code (throws an exception) if the driver's joystick calibrates improperly. When this happens, the LED strip on the driver console lights up bright red and the user needs to restart the code and recalibrate the stick (unplug and plug back in, hit F1). This code also has an implementation of the [PulsedLight LIDAR-lite](https://engineering.purdue.edu/477grp7/datasheets/lidar.pdf) module, and changes the colors of the driver station LEDs according to the distance, which helps us line up at the human feeder station.
 
-[Robot Code on GitHub](https://github.com/WHS-FRC-3467/Skip-5.5) | [GitHub](https://github.com/whs-frc-3467)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140853) | [Robot Code on GitHub](https://github.com/WHS-FRC-3467/Skip-5.5) | [GitHub](https://github.com/whs-frc-3467)
 
 ## Team 3620: The Average Joes
 

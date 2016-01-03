@@ -173,6 +173,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140791) | [Robot Code on GitHub](https://github.com/KennedyRoboEagles/PublicRobotCode)
 
+## Team 3322: Eagle Imperium
+
+> If you have any questions about any of our code, feel free to ask.  Apologies for the messyness of the source.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140864) | [Robot Code on GitHub](https://github.com/FRC3322/FinalRobot2015)
+
 ## Team 3467: The Windham Windup
 > Typical FRC code, just as WPI likes it. There are a few neat features that we added at competitions to meet our needs:
 

@@ -40,7 +40,7 @@ Here's a few to get us started:
 
 > There are several good examples of combining state machines with the Command-Based Robot framework.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140791)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140791) |
 [Robot Code on GitHub](https://github.com/KennedyRoboEagles/PublicRobotCode)
 
 ## Team 3467: The Windham Windup

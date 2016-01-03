@@ -7,8 +7,6 @@ Here's a few to get us started:
 
 ## Team 254: The Cheesy Poofs
 
-Robot: Deadlift
-
 > This year’s software includes new features such as a test harness and simulator code to run the program on a computer, web-based graphing tools, constants editor, and autonomous selection, blocking autonomous routines, and a controller that calculates and follows a trapezoidal motion profile, on the fly.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137843) | [Robot Code on GitHub](https://github.com/Team254/FRC-2015) | [Simulated robot hardware on GitHub](https://github.com/Team254/Sim-FRC-2015) | [Simulator on GitHub](https://github.com/tombot/FakeWPILib) | [GitHub](https://github.com/Team254)
@@ -40,7 +38,10 @@ Robot: Deadlift
 
 ## Team 3081: Kennedy RoboEagles
 
+> There are several good examples of combining state machines with the Command-Based Robot framework.
+
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140791)
+[Robot Code on GitHub](https://github.com/KennedyRoboEagles/PublicRobotCode)
 
 ## Team 3467: The Windham Windup
 

@@ -139,5 +139,4 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 > Our robot has a mecanum drive train, an elevator, a telescoping arm, and a pneumatic claw. This is its code.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=138078)
-[Robot Code on GitHub](https://github.com/Terrorbytes/TB2015)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=138078) | [Robot Code on GitHub](https://github.com/Terrorbytes/TB2015)

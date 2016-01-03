@@ -5,6 +5,17 @@ Quotes are not necessarily verbatim.
 
 # 2015 season code
 
+## Team 174: Arctic Warriors
+
+> * Java simulator - Unobtrusive "simulator" that can be used with any teams java code. It sounds like we took a similar approach to what team 254 did
+> * Custom SmartDashboard widgets - Custom widgets to show robot state, motion profiling state, and our autonomous editor
+> * Autonomous Scripting - Command based autonomous scripts. Stored as text files on the robot, can be edited from the SmartDashboard
+> * Motion Profiling - I had my students hand roll a simple version for straight paths. We also took team 254's spline library as is.
+
+> In developing our software this year, we tried to have a more structured design process. We made a design notebook for our entire robot which will be released at a later date, including class diagrams and sequence diagram. We used the Agile methodology to develop our software, which worked quite well with the structure of a FIRST season and our constantly changing requirements
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137819) | [Robot Code on GitHub] (https://github.com/ArcticWarriors/snobot2015) | [PDF](https://github.com/ArcticWarriors/snobot2015/raw/master/Team174Software.pdf)
+
 ## Team 254: The Cheesy Poofs
 
 > This year’s software includes new features such as a test harness and simulator code to run the program on a computer, web-based graphing tools, constants editor, and autonomous selection, blocking autonomous routines, and a controller that calculates and follows a trapezoidal motion profile, on the fly.

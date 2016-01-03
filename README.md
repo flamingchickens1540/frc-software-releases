@@ -51,7 +51,7 @@ Quotes are not necessarily verbatim.
 
 > This year we used the new AndyMark Swerve Drives.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137028)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137028) |
 [Robot Code on GitHub](https://github.com/bh202548/Robocubs-Code-2015/)
 
 ## Team 1939: Kuhnigits

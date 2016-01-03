@@ -47,6 +47,13 @@ Quotes are not necessarily verbatim.
 [CAD on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?threadid=137883) |
 [Team Website](http://frc971.org/)
 
+## Team 1701: RoboCubs
+
+> This year we used the new AndyMark Swerve Drives.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137028)
+[Robot Code on GitHub](https://github.com/bh202548/Robocubs-Code-2015/)
+
 ## Team 1939: Kuhnigits
 
 > This year was exciting for the programming team. New control techniques such as PID were explored, and new Talon SRX speed controllers made programming and wiring easier. Our team believes heavily in the WPILib programming model of Subsystems and Commands. All of our code follows this Command Based model.

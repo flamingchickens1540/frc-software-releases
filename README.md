@@ -43,6 +43,10 @@ Quotes are not necessarily verbatim.
 
 >  We ran our robot software department on a code-review setup: everything got developed in a separate branch, pull-requested, and code-reviewed before merge. ]You can see the log of this on the project page.](https://github.com/flamingchickens1540/quasar-helios-2015/pulls?q=is%3Apr+is%3Aclosed) 107 pull requests!
 > This ended up working really well for us - it allowed us to edit each other's code to be higher quality in a way that gave everyone rapid feedback and allowed team members to become much better programmers over the course of the season.
+>
+> (Also, for reference, our code uses [the Common Chicken Runtime Engine](http://www.chiefdelphi.com/forums/showthread.php?t=130813), our dataflow-based robot code framework, which should explain some of the nonstandard coding.)
+> 
+> One other thing that helped: multi-layered autonomous modes. Some of our modes would pick up totes. To do this, they would start the pseudo-autonomous mode for autoloading (which was also used by the drivers), which would, in turn, also start the pseudo-autonomous mode for automatically controlling the elevator stacking sequence (also available to the drivers separately.)
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137255) | [Robot Code on GitHub](https://github.com/flamingchickens1540/quasar-helios-2015) | [GitHub](https://github.com/flamingchickens1540)
 
@@ -91,3 +95,10 @@ Quotes are not necessarily verbatim.
 > * adding third party jars to the build.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) | [Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) | [White paper](http://www.chiefdelphi.com/media/papers/3189)
+
+## Team 4561: 
+
+> Our robot has a mecanum drive train, an elevator, a telescoping arm, and a pneumatic claw. This is its code.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=138078)
+[Robot Code on GitHub](https://github.com/Terrorbytes/TB2015)

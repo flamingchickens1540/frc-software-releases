@@ -70,6 +70,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137028) | [Robot Code on GitHub](https://github.com/bh202548/Robocubs-Code-2015/)
 
+## Team 1756: Argos
+
+> As promised here is team 1756 Argos robot code. We did not clean it up so it is a little messy but if anyone has any questions please feel free to ask.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137483) | [Robot Code on Chief Delphi](http://www.chiefdelphi.com/media/papers/3152?)
+
 ## Team 1939: Kuhnigits
 
 > This year was exciting for the programming team. New control techniques such as PID were explored, and new Talon SRX speed controllers made programming and wiring easier. Our team believes heavily in the WPILib programming model of Subsystems and Commands. All of our code follows this Command Based model.

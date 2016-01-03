@@ -45,7 +45,7 @@ Here's a few to get us started:
 
 ## Team 3467: The Windham Windup
 
-[GitHub](https://github.com/whs-frc-3467)
+[Robot Code on GitHub](https://github.com/WHS-FRC-3467/Skip-5.5) | [GitHub](https://github.com/whs-frc-3467)
 
 ## Team 3620: The Average Joes
 

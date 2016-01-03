@@ -67,7 +67,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 ## Team 1540: The Flaming Chickens
 
->  We ran our robot software department on a code-review setup: everything got developed in a separate branch, pull-requested, and code-reviewed before merge. ]You can see the log of this on the project page.](https://github.com/flamingchickens1540/quasar-helios-2015/pulls?q=is%3Apr+is%3Aclosed) 107 pull requests!
+>  We ran our robot software department on a code-review setup: everything got developed in a separate branch, pull-requested, and code-reviewed before merge. [You can see the log of this on the project page.](https://github.com/flamingchickens1540/quasar-helios-2015/pulls?q=is%3Apr+is%3Aclosed) 107 pull requests!
 > This ended up working really well for us - it allowed us to edit each other's code to be higher quality in a way that gave everyone rapid feedback and allowed team members to become much better programmers over the course of the season.
 >
 > (Also, for reference, our code uses [the Common Chicken Runtime Engine](http://www.chiefdelphi.com/forums/showthread.php?t=130813), our dataflow-based robot code framework, which should explain some of the nonstandard coding.)

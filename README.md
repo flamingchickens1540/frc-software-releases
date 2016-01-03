@@ -1,7 +1,7 @@
 # FRC Software Releases
 A big list of all the FRC team software releases from recent years!
 
-Here's a few to get us started:
+Quotes are not necessarily verbatim.
 
 # 2015 season code
 
@@ -35,6 +35,13 @@ Here's a few to get us started:
 [General software info on team website](http://frc971.org/content/2015-software) |
 [CAD on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?threadid=137883) |
 [Team Website](http://frc971.org/)
+
+## Team 1939: Kuhnigits
+
+> This year was exciting for the programming team. New control techniques such as PID were explored, and new Talon SRX speed controllers made programming and wiring easier. Our team believes heavily in the WPILib programming model of Subsystems and Commands. All of our code follows this Command Based model.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=139606)
+[Robot Code on GitHub](https://github.com/FIRST1939/RecycleRush2015)
 
 ## Team 3081: Kennedy RoboEagles
 

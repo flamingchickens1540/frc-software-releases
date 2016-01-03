@@ -40,7 +40,7 @@ Quotes are not necessarily verbatim.
 
 > This year was exciting for the programming team. New control techniques such as PID were explored, and new Talon SRX speed controllers made programming and wiring easier. Our team believes heavily in the WPILib programming model of Subsystems and Commands. All of our code follows this Command Based model.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=139606)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=139606) |
 [Robot Code on GitHub](https://github.com/FIRST1939/RecycleRush2015)
 
 ## Team 3081: Kennedy RoboEagles

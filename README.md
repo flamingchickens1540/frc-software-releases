@@ -68,6 +68,13 @@ Quotes are not necessarily verbatim.
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137296) |
 [Robot Code on GitHub](https://github.com/Team2122/Kartoshka)
 
+## Team 2485: WARLords
+
+> Our Sequencer Factory class enabled us to rapidly create and modify auto sequences, which could also be used in teleop.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136899)
+[Robot Code on GitHub](https://github.com/team2485/frc-2015)
+
 ## Team 3081: Kennedy RoboEagles
 
 > There are several good examples of combining state machines with the Command-Based Robot framework.

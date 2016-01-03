@@ -39,6 +39,15 @@ Quotes are not necessarily verbatim.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140568) | [Robot Code on team website](http://robotics.mvla.net/spartanrobotics/releases/src/2015_code.tar.gz) | [General software info on team website](http://frc971.org/content/2015-software) | [CAD on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?threadid=137883) | [Team Website](http://frc971.org/)
 
+## Team 1540: The Flaming Chickens
+
+>  We ran our robot software department on a code-review setup: everything got developed in a separate branch, pull-requested, and code-reviewed before merge. ]You can see the log of this on the project page.](https://github.com/flamingchickens1540/quasar-helios-2015/pulls?q=is%3Apr+is%3Aclosed) 107 pull requests!
+> This ended up working really well for us - it allowed us to edit each other's code to be higher quality in a way that gave everyone rapid feedback and allowed team members to become much better programmers over the course of the season.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137255)
+[Robot Code on GitHub](https://github.com/flamingchickens1540/quasar-helios-2015)
+[GitHub](https://github.com/flamingchickens1540)
+
 ## Team 1701: RoboCubs
 
 > This year we used the new AndyMark Swerve Drives.

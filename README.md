@@ -32,7 +32,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 ## Team 423: Simple Machines
 
-> As our robot code approaches its zenith, I wanted to share it with the Chief Delphi community for people to learn from, possibly to get suggestions, and to show the world how Simple Machines works.
+> As our robot code approaches its zenith, I wanted to share it with the Chief Delphi community for people to learn from, possibly to get suggestions, and to show the world how the Simple Machines works. Nice and simple; our code is like our machines. Features: autonomous recorder and playback, mecanum driving, pneumatic elevator, and a cool dashboard.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137627) | [Robot Code on Dropbox](https://www.dropbox.com/sh/ock70bamdmtwp24/AADkortfP3wtt3RPaT1Z3ZTOa?dl=0)
 

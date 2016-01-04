@@ -44,11 +44,24 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140790) | [Robot Code on team website](http://team624.org/files/624%202015%20Code%20Release.zip) | [Robot Code from Beta 2015](http://team624.org/files/624-Feed-Forward-R-D.zip) | [Team Website](http://team624.org/?controller=page&action=programmingResources) | [GitHub](https://github.com/Team624)
 
-## Team 857: (Java/WPILib)
+## Team 857: Superior Roboworks (Java/WPILib)
 
 > I don't really have an interesting descriptive label like most of the others.
 
 [Robot Code on GitHub](https://github.com/team857/2015RobotCode) | [GitHub](https://github.com/team857)
+
+## Team 865: Warp7  (Python)
+
+> Highlights:
+> 
+> * ADXRS453 gyro implementation in python
+> * Intakes have current monitoring to prevent jamming and increase intake speed.
+> * Fully automated stacking
+> * Motion profiling implementation in python
+> * Gui to keep track of stacking sequence written in python.
+> * Cheesy Drive implementation in python
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?p=1516471) | [Robot Code on GitHub](https://github.com/Team865/tachyon)
 
 ## Team 900: Zebracorns (LabVIEW)
 

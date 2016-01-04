@@ -212,3 +212,9 @@ Also, note that it's not entirely clear that adding your code to this list is su
 > Our robot has a mecanum drive train, an elevator, a telescoping arm, and a pneumatic claw. This is its code.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=138078) | [Robot Code on GitHub](https://github.com/Terrorbytes/TB2015)
+
+## Team 4901: Garnet Squadron (LabVIEW)
+
+> To enable us to develop code year-round and share useful code and documentation amongst the FIRST community, this repository will contain all of team 4901's robot code and tools for the 2016 competition year and later.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140892) | [Robot Code on GitHub](https://github.com/ryannazaretian/FRC-4901-Garnet-Squadron)

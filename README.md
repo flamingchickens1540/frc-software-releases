@@ -59,6 +59,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140568) | [Robot Code on team website](http://robotics.mvla.net/spartanrobotics/releases/src/2015_code.tar.gz) | [General software info on team website](http://frc971.org/content/2015-software) | [CAD on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?threadid=137883) | [Team Website](http://frc971.org/)
 
+## Team 980: Thunderbots
+
+> 2015 was a learning and testing year for the Thunderbots, so you'll see a lot of test codes and not a lot of organization. This season we'll see more organization.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140895) | [Robot Code on GitHub](https://github.com/Team980/2015) | [GitHub](https://github.com/Team980)
+
 ## Team 1410: The Kraken (C++/Command-Based)
 
 > You may notice two weird things. The first is the array and method at the top of the OI. These are used to add a dead-zone into the controller, making them less sensitive. The second would be the SimultaneousOp CommandGroups in the IntakeArms and CanManipulator Commands folders. These are used so that we can both drive the rollers/arms, and the elevator/arms simultaneously. We could have had a command for this, but by using a command group we can also use the separate commands outside of it.

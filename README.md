@@ -7,13 +7,13 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 # 2015 season code
 
-## Team 107: R.O.B.O.T.I.C.S
+## Team 107: R.O.B.O.T.I.C.S (LabVIEW)
 
 >  If you have any questions about what we have done let me know.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137046) | [Robot Code on Dropbox](https://www.dropbox.com/sh/0n8wnv9c8mrd2sk/AADJFHstVXQxbpY_pTD4p-Jaa?dl=0) | [Dashboard Code on Dropbox](https://www.dropbox.com/sh/12waxpw4c6kz68p/AAAQl4qh_KgX-2NQAkhaiV4ka?dl=0)
 
-## Team 174: Arctic Warriors
+## Team 174: Arctic Warriors (Java/Command-Based)
 
 > * Java simulator - Unobtrusive "simulator" that can be used with any teams java code. It sounds like we took a similar approach to what team 254 did
 > * Custom SmartDashboard widgets - Custom widgets to show robot state, motion profiling state, and our autonomous editor
@@ -24,19 +24,19 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137819) | [Robot Code on GitHub] (https://github.com/ArcticWarriors/snobot2015) | [PDF](https://github.com/ArcticWarriors/snobot2015/raw/master/Team174Software.pdf)
 
-## Team 254: The Cheesy Poofs
+## Team 254: The Cheesy Poofs (Java/WPILib)
 
 > This year’s software includes new features such as a test harness and simulator code to run the program on a computer, web-based graphing tools, constants editor, and autonomous selection, blocking autonomous routines, and a controller that calculates and follows a trapezoidal motion profile, on the fly.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137843) | [Robot Code on GitHub](https://github.com/Team254/FRC-2015) | [Simulated robot hardware on GitHub](https://github.com/Team254/Sim-FRC-2015) | [Simulator on GitHub](https://github.com/tombot/FakeWPILib) | [GitHub](https://github.com/Team254)
 
-## Team 423: Simple Machines
+## Team 423: Simple Machines (LabVIEW)
 
 > As our robot code approaches its zenith, I wanted to share it with the Chief Delphi community for people to learn from, possibly to get suggestions, and to show the world how the Simple Machines works. Nice and simple; our code is like our machines. Features: autonomous recorder and playback, mecanum driving, pneumatic elevator, and a cool dashboard.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137627) | [Robot Code on Dropbox](https://www.dropbox.com/sh/ock70bamdmtwp24/AADkortfP3wtt3RPaT1Z3ZTOa?dl=0)
 
-## Team 624: CRyptonite
+## Team 624: CRyptonite (LabVIEW)
 
 >  This includes a library for using CAN Talons in LabVIEW with limited memory overhead, a scripted autonomous structure and text editor with a customizable programming language, and our version of Smart Dashboard which uses UDP instead of Network Tables. It also contains our offseason RGB lights code.
 
@@ -44,13 +44,13 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140790) | [Robot Code on team website](http://team624.org/files/624%202015%20Code%20Release.zip) | [Robot Code from Beta 2015](http://team624.org/files/624-Feed-Forward-R-D.zip) | [Team Website](http://team624.org/?controller=page&action=programmingResources) | [GitHub](https://github.com/Team624)
 
-## Team 900: Zebracorns
+## Team 900: Zebracorns (LabVIEW)
 
 > Included is our LabVIEW Swerve Drive and Arm control, our dashboard, and the vision code we used this year on our on board Jetson TK1 to detect the green bins during auton. We will be releasing a few whitepapers in the following month(s) about the systems our robot used this year.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137021) | [Robot Code on GitHub](https://github.com/FRC900/2015RobotCode) | [Dashboard Code on GitHub](https://github.com/FRC900/2015DashboardCode) | [Vision Code on GitHub](https://github.com/FRC900/2015VisionCode) | [Vision Whitepaper on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?p=1484741)
 
-## Team 971: Spartan Robotics
+## Team 971: Spartan Robotics (C++/WPILib)
 
 > * Most of the stuff we modify year-to-year is written in C++ and Python
 > * We use Python to design our controllers and generate raw matrices for our state feedback controllers that can be used with the C++ code directly. [Another thread diving into our control system code and theory is available here](http://www.chiefdelphi.com/forums/showthread.php?t=129574)
@@ -59,13 +59,13 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140568) | [Robot Code on team website](http://robotics.mvla.net/spartanrobotics/releases/src/2015_code.tar.gz) | [General software info on team website](http://frc971.org/content/2015-software) | [CAD on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?threadid=137883) | [Team Website](http://frc971.org/)
 
-## Team 1410: The Kraken
+## Team 1410: The Kraken (C++/Command-Based)
 
 > You may notice two weird things. The first is the array and method at the top of the OI. These are used to add a dead-zone into the controller, making them less sensitive. The second would be the SimultaneousOp CommandGroups in the IntakeArms and CanManipulator Commands folders. These are used so that we can both drive the rollers/arms, and the elevator/arms simultaneously. We could have had a command for this, but by using a command group we can also use the separate commands outside of it.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=135701) | [Robot Code on GitHub](https://github.com/FRC-Team-1410/RR2015-FRC1410)
 
-## Team 1540: The Flaming Chickens
+## Team 1540: The Flaming Chickens (Java/Common Chicken Runtime Engine)
 
 >  We ran our robot software department on a code-review setup: everything got developed in a separate branch, pull-requested, and code-reviewed before merge. [You can see the log of this on the project page.](https://github.com/flamingchickens1540/quasar-helios-2015/pulls?q=is%3Apr+is%3Aclosed) 107 pull requests!
 > This ended up working really well for us - it allowed us to edit each other's code to be higher quality in a way that gave everyone rapid feedback and allowed team members to become much better programmers over the course of the season.
@@ -76,43 +76,43 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137255) | [Robot Code on GitHub](https://github.com/flamingchickens1540/quasar-helios-2015) | [GitHub](https://github.com/flamingchickens1540)
 
-## Team 1701: RoboCubs
+## Team 1701: RoboCubs (Java/Command-Based)
 
 > This year we used the new AndyMark Swerve Drives.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137028) | [Robot Code on GitHub](https://github.com/bh202548/Robocubs-Code-2015/)
 
-## Team 1756: Argos
+## Team 1756: Argos (LabVIEW)
 
 > As promised here is team 1756 Argos robot code. We did not clean it up so it is a little messy but if anyone has any questions please feel free to ask.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137483) | [Robot Code on Chief Delphi](http://www.chiefdelphi.com/media/papers/3152?)
 
-## Team 1768: Robochiefs
+## Team 1768: Robochiefs (Java/Command-Based)
 
 > 2015's code features code to connect to an arduino over ethernet, PID with feed forward, and more.
 
 [Robot Code on GitHub](https://github.com/Nashoba-Robotics/Nashoba-Robotics2015) | [Ardunio Code on GitHub](https://github.com/Nashoba-Robotics/CoffinLED) | [GitHub](https://github.com/Nashoba-Robotics)
 
-## Team 1939: Kuhnigits
+## Team 1939: Kuhnigits (Java/Command-Based)
 
 > This year was exciting for the programming team. New control techniques such as PID were explored, and new Talon SRX speed controllers made programming and wiring easier. Our team believes heavily in the WPILib programming model of Subsystems and Commands. All of our code follows this Command Based model.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=139606) | [Robot Code on GitHub](https://github.com/FIRST1939/RecycleRush2015)
 
-## Team 2062: C.O.R.E 2062
+## Team 2062: C.O.R.E 2062 (C++/WPILib)
 
 >  This year we added a better way of examining match data by putting match data onto a file that we can look on after a match. We also experimented heavily with PID and added some functionality in the library to compliment it in the future. Lastly we tried to find a better way to manage the smartdashboard but it is currently incomplete and will most likely be finished in the of season. Other than that there were a few minor tweaks and additions.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=123909) | [Robot Code on GitHub](https://github.com/core2062/CORE2015/)
 
-## Team 2067: Apple PI
+## Team 2067: Apple PI (LabVIEW)
 
 > The most interesting parts are the Swerve Drive folder, and the AppleScript folder. AppleScript is a scripting language that is used to rapidly develop autonomous code, and is then executed by an interpreter in LabVIEW. The script is stored on the driver station computer, and is sent to the robot over network tables whenever an update is made.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140820) | [Robot Code on GitHub](https://github.com/applepi-2067/Robot-2015) | [Swerve Drive Powerpoint on Google Drive](https://drive.google.com/open?id=0Byip7vBcYbKmY3lzdEJiclpMRTQ)
 
-## Team 2084: Robots by the C
+## Team 2084: Robots by the C (Java/Command-Based)
 
 > * Flexible drive system that makes it easy to implement different drive systems. The mecanum code features support for gyros and wheel encoders, but not everything is fully tested.
 > * ParameterCommand - allows Commands to have parameters that can be set from the SmartDashboard.
@@ -125,61 +125,62 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136411) | [Robot Code on GitHub](https://github.com/RobotsByTheC/CMonster2015) | [SmartDashboard Extensions on GitHub](https://github.com/RobotsByTheC/SmartDashboardExtensions2015) | [Vision Processor on GitHub](https://github.com/RobotsByTheC/VisionProcessor2015) | [GitHub](https://github.com/RobotsByTheC)
 
-## Team 2122: Team Tators
+## Team 2122: Team Tators (C++/Command-Based)
 
 > As one of our seniors put it, "Wow this is some cool code for you!" I couldn't have put it more eloquently.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137296) | [Robot Code on GitHub](https://github.com/Team2122/Kartoshka)
 
-## Team 2363: Triple Helix
+## Team 2363: Triple Helix (Java/Command-Based)
 
 > This was definitely our most complex robot to date. Comments and questions welcome.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137180) | [Robot Code on GitHub](https://github.com/TripleHelixProgramming/recycle-rush/tree/working_branch) | [GitHub](https://github.com/TripleHelixProgramming)
 
-## Team 2481: Roboteers
+## Team 2481: Roboteers (C++/Command-Based)
 
 > A couple things we would like to call out are the 3 tote autonomous sequence and our fully autonomous stacker. We attribute much of our success to our automated sequences that allowed the drivers to focus on playing the game at a higher level.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=138077) | [Robot Code on GitHub](https://github.com/Frc2481/frc-2015)
 
-## Team 2485: WARLords
+## Team 2485: WARLords (Java/WPILib)
 
 > Our Sequencer Factory class enabled us to rapidly create and modify auto sequences, which could also be used in teleop.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136899) | [Robot Code on GitHub](https://github.com/team2485/frc-2015)
 
-## Team 2614: MARS
+## Team 2614: MARS (LabVIEW)
 
 > Of note in this code is our autonomous play infrastructure which is described in the attached document. In summary, the infrastructure uses parameterized commands to develop autonomous plays. Once the basic commands are created, no further modifications to robot code are needed. An external labview application runs on a separate laptop or the driver station laptop. This application connects to the robot and reads the available commands. You then build plays using the commands and adding values for the parameters. Commands can be run sequentially or indicated to be run concurrently. Each play is a separate file stored on the robot which can then be selected from a pulldown menu in the DS. Plays can be rapidly modified and rerun (like on a practice field) because no code deployment is needed.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140812) | [Document on Chief Delphi](http://www.chiefdelphi.com/forums/attachment.php?attachmentid=19617&d=1451782809) | [Robot Code on Chief Delphi](http://www.chiefdelphi.com/forums/attachment.php?attachmentid=19618&d=1451784369) | [Dashboard Code on Chief Delphi](http://www.chiefdelphi.com/forums/attachment.php?attachmentid=19619&d=1451784383)
 
-## Team 2729: Storm Robotics Team
+## Team 2729: Storm Robotics Team (Java/Command-Based)
 
 > Hello! I am a member of Storm Team 2729. I am making our 2015 season's code available to the public.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136873) | [Robot Code on GitHub](https://github.com/2729StormRobotics/Storm2015) | [Arduino LED Code on GitHub](https://github.com/2729StormRobotics/StormArduino2015) | [Vision Code on GitHub](https://github.com/2729StormRobotics/Storm2015CV) | [GitHub](https://github.com/2729StormRobotics)
 
-## Team 3019: Firebirds
+## Team 3019: Firebirds (Java/Command-Based)
 
 > I have decided to post our robot code on cd. Our robot has 4 encoders with an H omni wheel drive. We have a elevator on the front and a pneumatic claw and elevator on the rear.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=135459) | [Robot Code on GitHub](https://github.com/fauge7/Gainz-Robot-Code/tree/master/Gainz/src/org/usfirst/frc/team3019/robot) | [Website](http://www.firebirdrobotics.com/)
 
-## Team 3081: Kennedy RoboEagles
+## Team 3081: Kennedy RoboEagles (C++/Command-Based)
 
 > There are several good examples of combining state machines with the Command-Based Robot framework.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140791) | [Robot Code on GitHub](https://github.com/KennedyRoboEagles/PublicRobotCode)
 
-## Team 3322: Eagle Imperium
+## Team 3322: Eagle Imperium (C++/Command-Based)
 
 > If you have any questions about any of our code, feel free to ask.  Apologies for the messyness of the source, our branches are kinda screwy right now, but WIP_secret_weapon is our main code branch.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140864) | [Robot Code on GitHub](https://github.com/FRC3322/FinalRobot2015)
 
-## Team 3467: The Windham Windup
+## Team 3467: The Windham Windup (Java/Command-Based)
+
 > Typical FRC code, just as WPI likes it. There are a few neat features that we added at competitions to meet our needs:
 
 > The 2015 code has a feature where it will not report that the code has "started" until we see that the smart dashboard has connected - which picks our autonomous mode. We accomplish this by extending IterativeRobot.class (ours is IterativeRobotCustom) and not executing the line that tells the FMS the code has started (FRC.ObserveUserProgramStarting()) until we receive a user's click on a smart dashboard item.
@@ -188,7 +189,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140853) | [Robot Code on GitHub](https://github.com/WHS-FRC-3467/Skip-5.5) | [GitHub](https://github.com/whs-frc-3467)
 
-## Team 3620: The Average Joes
+## Team 3620: The Average Joes (Java/Command-Based)
 
 > Most of the code is pretty typical FRC code (complete with warts). There are a few unusual things in there, though, that other teams may find useful:
 > 
@@ -200,13 +201,13 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) | [Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) | [White paper](http://www.chiefdelphi.com/media/papers/3189)
 
-## Team 4480: UC-Botics
+## Team 4480: UC-Botics (Python)
 
 > This is the first year we used Python as the primary programming of the robot. The code is pretty basic for our lifter, but the code provides a decent template for future teams to try Python. We had a good experience with it because of the support of the developers of RobotPy.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140861) | [Robot Code on GitHub](https://github.com/bb20basketball/2015-Team4480-Code/)
 
-## Team 4561: TerrorBytes
+## Team 4561: TerrorBytes (Java/Command-Based)
 
 > Our robot has a mecanum drive train, an elevator, a telescoping arm, and a pneumatic claw. This is its code.
 

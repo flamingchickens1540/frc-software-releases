@@ -94,6 +94,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140895) | [Robot Code on GitHub](https://github.com/Team980/2015) | [GitHub](https://github.com/Team980)
 
+## Team 1073: The Force Team (Java/Command-Based)
+
+> Code for the new 2015 FIRST Robotics Competition RecycleRush.
+
+[Robot Code on GitHub](https://github.com/FRCTeam1073-TheForceTeam/robot15)
+
 ## Team 1410: The Kraken (C++/Command-Based)
 
 > You may notice two weird things. The first is the array and method at the top of the OI. These are used to add a dead-zone into the controller, making them less sensitive. The second would be the SimultaneousOp CommandGroups in the IntakeArms and CanManipulator Commands folders. These are used so that we can both drive the rollers/arms, and the elevator/arms simultaneously. We could have had a command for this, but by using a command group we can also use the separate commands outside of it.

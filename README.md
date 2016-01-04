@@ -213,7 +213,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) | [Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) | [White paper](http://www.chiefdelphi.com/media/papers/3189)
 
-## Team 4183: BitBuckets
+## Team 4183: BitBuckets (Java/Command-Based)
 
 > This is the repository for the Bit Buckets FRC Team 4183 2015 build season source code.
 
@@ -238,3 +238,9 @@ Also, note that it's not entirely clear that adding your code to this list is su
 > * We're participating in the Robot In 3 Days project. The code for that project will be available in 2016/Ri3d.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140892) | [Robot Code on GitHub](https://github.com/ryannazaretian/FRC-4901-Garnet-Squadron) | [Team Website](http://garnetsquadron.com/)
+
+## Team 4965: FIRE (Java/Command-Based)
+
+> Code for 2015 robot
+
+[Robot Code on GitHub](https://github.com/FRC-4965-FIRE/FRC2015)

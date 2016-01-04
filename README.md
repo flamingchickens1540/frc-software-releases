@@ -5,6 +5,16 @@ Want to add something about your code, or don't like how your team's work shows 
 
 Also, note that it's not entirely clear that adding your code to this list is sufficient to count as a code release. You are recommended to create a Chief Delphi thread and then add your team's code to this list.
 
+# Language & Framework List
+
+* LabVIEW
+* C++/WPILib
+* C++/Command-Based
+* Java/WPILib
+* Java/Command-Based
+* Java/CCRE
+* Python
+
 # 2015 season code
 
 ## Team 107: R.O.B.O.T.I.C.S (LabVIEW)

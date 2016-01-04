@@ -213,6 +213,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) | [Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) | [White paper](http://www.chiefdelphi.com/media/papers/3189)
 
+## Team 4183: BitBuckets
+
+> This is the repository for the Bit Buckets FRC Team 4183 2015 build season source code.
+
+[Robot Code on GitHub](https://github.com/BitBucketsFRC4183/FRC2015)
+
 ## Team 4480: UC-Botics (Python)
 
 > This is the first year we used Python as the primary programming of the robot. The code is pretty basic for our lifter, but the code provides a decent template for future teams to try Python. We had a good experience with it because of the support of the developers of RobotPy.

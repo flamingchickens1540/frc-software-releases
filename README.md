@@ -78,7 +78,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140568) | [Robot Code on team website](http://robotics.mvla.net/spartanrobotics/releases/src/2015_code.tar.gz) | [General software info on team website](http://frc971.org/content/2015-software) | [CAD on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?threadid=137883) | [Team Website](http://frc971.org/)
 
-## Team 980: Thunderbots
+## Team 980: Thunderbots (C++/WPILib)
 
 > 2015 was a learning and testing year for the Thunderbots, so you'll see a lot of test codes and not a lot of organization. This season we'll see more organization.
 

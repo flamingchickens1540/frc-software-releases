@@ -211,3 +211,11 @@ Also, note that it's not entirely clear that adding your code to this list is su
 > Our robot has a mecanum drive train, an elevator, a telescoping arm, and a pneumatic claw. This is its code.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=138078) | [Robot Code on GitHub](https://github.com/Terrorbytes/TB2015)
+
+## Team 4901: Garnet Squadron
+
+> * No old code yet, except a port of last years robot code from Java (not available) to LabVIEW. 
+> * The projects directory has some design stuff (schematic, firmware, and LabVIEW code) about the control board that's being developed to make it easier to add a custom operator interface for the robot. 
+> * We're participating in the Robot In 3 Days project. The code for that project will be available in 2016/Ri3d.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?p=1516388#post1516388) | [Team Repository (Code, schematics, projects)](https://github.com/ryannazaretian/FRC-4901-Garnet-Squadron) | [Team Website](http://garnetsquadron.com/)

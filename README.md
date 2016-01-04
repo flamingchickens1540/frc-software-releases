@@ -65,7 +65,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=135701) | [Robot Code on GitHub](https://github.com/FRC-Team-1410/RR2015-FRC1410)
 
-## Team 1540: The Flaming Chickens (Java/Common Chicken Runtime Engine)
+## Team 1540: The Flaming Chickens (Java/CCRE)
 
 >  We ran our robot software department on a code-review setup: everything got developed in a separate branch, pull-requested, and code-reviewed before merge. [You can see the log of this on the project page.](https://github.com/flamingchickens1540/quasar-helios-2015/pulls?q=is%3Apr+is%3Aclosed) 107 pull requests!
 > This ended up working really well for us - it allowed us to edit each other's code to be higher quality in a way that gave everyone rapid feedback and allowed team members to become much better programmers over the course of the season.

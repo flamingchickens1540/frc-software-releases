@@ -107,6 +107,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140895) | [Robot Code on GitHub](https://github.com/Team980/2015) | [GitHub](https://github.com/Team980)
 
+## Team 997: Spartan Robotics (Java/Command-Based)
+
+> Nothing special here. It does include our changes to support the 2016 Beta code. Only minor changes to our main code we used during the season.
+
+[Robot Code on GitHub](https://github.com/Team997Coders/2015GC)
+
 ## Team 1073: The Force Team (Java/Command-Based)
 
 > Code for the new 2015 FIRST Robotics Competition RecycleRush.

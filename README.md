@@ -57,7 +57,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
  
  > It's getting more complete every week, but as it stands, we recommend that you use parts of this repository rather than the whole of it - taking individual classes, or using the design as inspiration, rather than seeing it as a stable platform for robot development.
  
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?p=1516921#post1516921) | [2015 Code](https://github.com/Team488/Shared) | [CommonLib](https://github.com/Team488/SeriouslyCommonLib) | [Robot Template using CommonLib](https://github.com/Team488/FRCRobotTemplate)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?p=1516921#post1516921) | [Robot Code on Github](https://github.com/Team488/Shared) | [CommonLib on Github](https://github.com/Team488/SeriouslyCommonLib) | [Robot Template using CommonLib on Github](https://github.com/Team488/FRCRobotTemplate)
 
 ## Team 624: CRyptonite (LabVIEW)
 

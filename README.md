@@ -261,6 +261,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) | [Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) | [White paper](http://www.chiefdelphi.com/media/papers/3189)
 
+## Team 4118: Roaring Riptide
+
+> The aim is to make a simple to use library that intergates closely with WPILib to recording acutators and play back the values with little code.
+
+[Robot Utilities on GitHub](https://github.com/ironmig/RiptideRecorder)
+
 ## Team 4183: BitBuckets (Java/Command-Based)
 
 > This is the repository for the Bit Buckets FRC Team 4183 2015 build season source code.

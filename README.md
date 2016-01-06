@@ -34,6 +34,16 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137819) | [Robot Code on GitHub] (https://github.com/ArcticWarriors/snobot2015) | [PDF](https://github.com/ArcticWarriors/snobot2015/raw/master/Team174Software.pdf)
 
+## Team 225: TechFire
+
+> * robot.commands.drivetrain.FireDrive: This is a drivetrain control command that allows our mecanum drive to behave like a true omnidirectional drive for driving purposes. That is, FireDrive makes the robot move in all directions with the same speed, instead of the traditional behavior for mecanum: full speed forwards and 50% strafe. However, with our ever changing strategy we decided to remove FireDrive in the offseason in favor of maximum speed, so it is commented out.
+> * robot.commands.drivetrain.StableMode: This command uses a sine function to have the drivetrain compensate for the forward and backward motion of our arm as it moves up and down on its circular path. It ended up not being needed in our strategy so it is not tuned to work perfectly.
+> * robot.JedisProvider: We originally had the Raspberry Pi on Pheonix running a redis server and using the values from that to serve up our custom HTML and node.js dashboard.
+> * SimpleTableServer: This the custom dashboard implementation that we switched to. It uses UDP packets to communicate the values to the Pi.
+> * We also have some motion profiling implemented; robot.commands.drivetrain.ProfiledDriveDistance works well and accurately moves the robot a specified number of feet with a maximum acceleration and velocity in either a triangular or trapezoidal motion profile. The other "profiled" commands need work.
+
+[Chief Delphi](www.chiefdelphi.com/forums/showthread.php?p=1516880) | [Robot Code on GitHub](https://github.com/FRCTeam225/2015Robot)
+
 ## Team 254: The Cheesy Poofs (Java/WPILib)
 
 > This year’s software includes new features such as a test harness and simulator code to run the program on a computer, web-based graphing tools, constants editor, and autonomous selection, blocking autonomous routines, and a controller that calculates and follows a trapezoidal motion profile, on the fly.

@@ -271,6 +271,13 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) | [Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) | [White paper](http://www.chiefdelphi.com/media/papers/3189)
 
+## Team 4061: SciBorgs (C++/WPILib)
+
+> The second link on the page is a tar-ball of the 2015 code that we used through the 2015 season.
+> The first link is a link to a Git repo that has the 2015 off-season work we did where we took the 2015 robot code and generalized it. It works well and will spin motors and read joysticks and sensors...but there is still some more work we want to do with it. As we make improvements we will continue to make releases.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140912) | [Robot Code on Team Website](http://sciborgs4061.com/firmware/) | [Robot Code on BitBucket](https://bitbucket.org/sciborgs4061/psbrobotcore)
+
 ## Team 4118: Roaring Riptide (C++/WPILib)
 
 > The aim is to make a simple to use library that intergates closely with WPILib to recording acutators and play back the values with little code.

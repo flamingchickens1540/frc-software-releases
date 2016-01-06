@@ -34,7 +34,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137819) | [Robot Code on GitHub] (https://github.com/ArcticWarriors/snobot2015) | [PDF](https://github.com/ArcticWarriors/snobot2015/raw/master/Team174Software.pdf)
 
-## Team 225: TechFire
+## Team 225: TechFire (Java/Command-Based)
 
 > * robot.commands.drivetrain.FireDrive: This is a drivetrain control command that allows our mecanum drive to behave like a true omnidirectional drive for driving purposes. That is, FireDrive makes the robot move in all directions with the same speed, instead of the traditional behavior for mecanum: full speed forwards and 50% strafe. However, with our ever changing strategy we decided to remove FireDrive in the offseason in favor of maximum speed, so it is commented out.
 > * robot.commands.drivetrain.StableMode: This command uses a sine function to have the drivetrain compensate for the forward and backward motion of our arm as it moves up and down on its circular path. It ended up not being needed in our strategy so it is not tuned to work perfectly.

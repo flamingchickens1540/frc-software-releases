@@ -46,7 +46,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137627) | [Robot Code on Dropbox](https://www.dropbox.com/sh/ock70bamdmtwp24/AADkortfP3wtt3RPaT1Z3ZTOa?dl=0)
 
-## Team 488: Xbot (Java)
+## Team 488: Xbot (Java/Command-Based)
 
 > Our code release comes in two parts: Our 2015 code, and the library we began to construct out of it.
 

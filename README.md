@@ -46,6 +46,19 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137627) | [Robot Code on Dropbox](https://www.dropbox.com/sh/ock70bamdmtwp24/AADkortfP3wtt3RPaT1Z3ZTOa?dl=0)
 
+## Team 488: Xbot (Java)
+
+> Our code release comes in two parts: Our 2015 code, and the library we began to construct out of it.
+
+> We put a large focus on testability via injection. This has been the biggest benefit so far - given that our programming team can range between 3-8 members, there's a lot of contention to test things on the actual machine (which may or may not be ready for weeks regardless!). 
+
+> One quick disclaimer for the CommonLib and RobotTemplate (which you'll see on the repository): 
+ This repository is still very much a work in progress! There are chunks of code and build steps missing here that would probably block you from directly integrating this into your robot.
+ 
+ > It's getting more complete every week, but as it stands, we recommend that you use parts of this repository rather than the whole of it - taking individual classes, or using the design as inspiration, rather than seeing it as a stable platform for robot development.
+ 
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?p=1516921#post1516921) | [2015 Code](https://github.com/Team488/Shared) | [CommonLib](https://github.com/Team488/SeriouslyCommonLib) | [Robot Template using CommonLib](https://github.com/Team488/FRCRobotTemplate)
+
 ## Team 624: CRyptonite (LabVIEW)
 
 >  This includes a library for using CAN Talons in LabVIEW with limited memory overhead, a scripted autonomous structure and text editor with a customizable programming language, and our version of Smart Dashboard which uses UDP instead of Network Tables. It also contains our offseason RGB lights code.

@@ -22,3 +22,5 @@ Also, note that it's not entirely clear that adding your code to this list is su
 * [2014](2014.md)
 
 * [2013](2013.md)
+
+* [2012](2012.md)

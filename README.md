@@ -296,6 +296,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140861) | [Robot Code on GitHub](https://github.com/bb20basketball/2015-Team4480-Code/)
 
+## Team 4522: Team SCREAM (LabVIEW)
+
+> We have been working on a swerve drive before the 2016 season begins. We are planning on making many more modifications, but this is the current rough draft. I'm happy to answer any questions that teams may have.
+
+[Supplemental Code on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140901)
+
 ## Team 4561: TerrorBytes (Java/Command-Based)
 
 > Our robot has a mecanum drive train, an elevator, a telescoping arm, and a pneumatic claw. This is its code.

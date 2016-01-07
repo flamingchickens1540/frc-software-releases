@@ -83,7 +83,14 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Robot Code on GitHub](https://github.com/team857/2015RobotCode) | [GitHub](https://github.com/team857)
 
-## Team 865: Warp7  (Python)
+## Team 862: Lightning Robotics (LabVIEW)
+
+> Generic code for a tank based arcade controlled robot. Pretty clean, nice logging, a rudimentary implementation of 254 motion tracking auton.
+> There is also a nice little C++ web server we plan on using to manage configuration files and viewing logs.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140887) | [Robot Code on GitHub](https://github.com/frc-862/2015-Base.git) | [C++ Web Server Code on GitHub](https://github.com/frc-862/roboconfig.git)
+
+## Team 865: Warp7 (Python)
 
 > Highlights:
 > 

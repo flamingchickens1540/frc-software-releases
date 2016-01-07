@@ -142,6 +142,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Robot Code on GitHub](https://github.com/FRCTeam1073-TheForceTeam/robot15)
 
+## Team 1351: TKO (Java/Command-Based) 
+
+> This years software includes features such as TKOThread, a class designed to bring thread safety and synchronization without the use of static variables to our code, our Atoms-and-Molecules based autonomous system with selection built into the FRC Dashboard, our centralized TKOHardware allowing us to easily monitor and control all of the inputs and outputs of the robot, as well as easily change inputs and outputs without severely disrupting working flow, and our TKOLogger system which allows us to log and track the various messages thrown out by the RoboRio during a run. 
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?p=1517348#post1517348) | [Robot Code on GitHub] (https://github.com/MittyRobotics/MarkXII-Java-Public-) 
+
 ## Team 1410: The Kraken (C++/Command-Based)
 
 > You may notice two weird things. The first is the array and method at the top of the OI. These are used to add a dead-zone into the controller, making them less sensitive. The second would be the SimultaneousOp CommandGroups in the IntakeArms and CanManipulator Commands folders. These are used so that we can both drive the rollers/arms, and the elevator/arms simultaneously. We could have had a command for this, but by using a command group we can also use the separate commands outside of it.

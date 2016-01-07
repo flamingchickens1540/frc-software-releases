@@ -17,6 +17,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 # 2015 season code
 
+## Team 74: Team C.H.A.O.S. (LabVIEW)
+
+> Some dashboard code from 2015
+
+[Dashboard Code on Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140961)
+
 ## Team 107: R.O.B.O.T.I.C.S (LabVIEW)
 
 >  If you have any questions about what we have done let me know.

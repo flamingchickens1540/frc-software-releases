@@ -334,7 +334,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 > * The projects directory has some design stuff (schematic, firmware, and LabVIEW code) about the control board that's being developed to make it easier to add a custom operator interface for the robot. 
 > * We're participating in the Robot In 3 Days project. The code for that project will be available in 2016/Ri3d.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140892) | [Robot Code on GitHub](https://github.com/ryannazaretian/FRC-4901-Garnet-Squadron) | [Team Website](http://garnetsquadron.com/)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140892) | [Robot Code on GitHub](https://github.com/GarnetSquardon4901/FRC-4901-Garnet-Squadron) | [Team Website](http://garnetsquadron.com/)
 
 ## Team 4965: FIRE (Java/Command-Based)
 

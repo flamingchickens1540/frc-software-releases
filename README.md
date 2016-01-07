@@ -144,7 +144,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 ## Team 1351: TKO (Java/Command-Based) 
 
-> This years software includes features such as TKOThread, a class designed to bring thread safety and synchronization without the use of static variables to our code, our Atoms-and-Molecules based autonomous system with selection built into the FRC Dashboard, our centralized TKOHardware allowing us to easily monitor and control all of the inputs and outputs of the robot, as well as easily change inputs and outputs without severely disrupting working flow, and our TKOLogger system which allows us to log and track the various messages thrown out by the RoboRio during a run. 
+> This year's software includes features such as our TKOThread, a class designed to bring thread safety and synchronization without the use of static variables to our code, our Atoms-and-Molecules based autonomous system with selection built into the FRC Dashboard, our centralized TKOHardware allowing us to easily monitor and control all of the inputs and outputs of the robot, as well as easily change inputs and outputs without severely disrupting our work flow, and our TKOLogger system which allows us to log and track the various messages thrown out by the RoboRio during a run. 
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?p=1517348#post1517348) | [Robot Code on GitHub] (https://github.com/MittyRobotics/MarkXII-Java-Public-) 
 

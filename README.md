@@ -148,6 +148,13 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=135701) | [Robot Code on GitHub](https://github.com/FRC-Team-1410/RR2015-FRC1410)
 
+## Team 1538: The Holy Cows (C++/WPILib)
+
+> FIRST Hall of Fame Team 1538, The Holy Cows is pleased to release our 2015 season software.
+> This year was the first year where we moved to the Talon SRX speed controllers. We opted to use CAN bus in order to perform some advanced control theory applications. We had a few cool features implemented in software such as re-zeroing a spool based on current, rather than using a limit switch. We also implemented PID on our pincher using position and current.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140923) | [Robot Code on GitHub](https://github.com/TheHolyCows/1538_2015)
+
 ## Team 1540: The Flaming Chickens (Java/CCRE)
 
 >  We ran our robot software department on a code-review setup: everything got developed in a separate branch, pull-requested, and code-reviewed before merge. [You can see the log of this on the project page.](https://github.com/flamingchickens1540/quasar-helios-2015/pulls?q=is%3Apr+is%3Aclosed) 107 pull requests!

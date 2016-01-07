@@ -297,6 +297,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140729) | [Robot Code on GitHub](https://github.com/FRC3620/FRC3620_2015_AverageJava) | [White paper](http://www.chiefdelphi.com/media/papers/3189)
 
+## Team 3944: All Knights (Java/WPILib)
+
+> Our code is for mecanum drive.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140981) | [Robot Code on GitHub](https://github.com/AnnaDtest/AllKnights2015)
+
 ## Team 4061: SciBorgs (C++/WPILib)
 
 > The second link on the page is a tar-ball of the 2015 code that we used through the 2015 season.

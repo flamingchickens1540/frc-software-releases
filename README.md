@@ -353,3 +353,13 @@ Also, note that it's not entirely clear that adding your code to this list is su
 > Code for 2015 robot
 
 [Robot Code on GitHub](https://github.com/FRC-4965-FIRE/FRC2015)
+
+## Team 5687: The Outliers (Java/Command-Based)
+
+> * Code for competition 2015 robot is available in the "St. Louis" release/ tag
+>  * Basic tank drive
+>  * Autonomous scripting, inspired by FRC4564 Orange Chaos
+>  * PID-controlled elevator using an encoder
+> * Current repository also includes some off-season work with pneumatics, [GradleRIO](https://github.com/Open-RIO/GradleRIO), and IntelliJ IDEA
+
+[Robot Code on GitHub](https://github.com/frc5687/Outlier1)

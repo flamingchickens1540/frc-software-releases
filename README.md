@@ -368,6 +368,15 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Robot Code on GitHub](https://github.com/FRC-4965-FIRE/FRC2015)
 
+## Team 5053: Laker Robotics (LabVIEW & Java)
+
+> * 2015 Labview Code: latest labview Code for competition 2015 robot is available in the "Off-Season" release/ tag. It includes code to read the AMS Hall Effect sensor AS5048A-EK-AB over I2C, used as an infinite POD for our elevator
+> * 2016 Java Code: Includes an easy to use Motion Control to drive in a straight line. It allows you to specify the distance, a max-speed and a ramp-up/ramp-down zone. It includes Gyro controlled straight line adjustment. Compatible with WPI's Robot Builder.
+> * 2016 Java Code: Includes an easy to use motion controlled turning. Controls speed of rotation using a gyro, again with a ramp-up/ramp-down zone and a maximum speed of rotation. Compatible with WPI's Robot Builder. 
+
+[2015 Labview Robot Code on GitHub](https://github.com/LakerRobotics/FRC2015RobotCode.git) | [2016 Java start Robot Code on GitHub](https://github.com/LakerRobotics/FRC2015Java.git)
+
+
 ## Team 5687: The Outliers (Java/Command-Based)
 
 > * Code for competition 2015 robot is available in the "St. Louis" release/ tag

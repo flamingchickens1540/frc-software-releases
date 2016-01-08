@@ -340,6 +340,12 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=138078) | [Robot Code on GitHub](https://github.com/Terrorbytes/TB2015)
 
+## Team 4761: The Robockets (Java/Command-Based)
+
+> Our robot specialized in capping stacks of boxes with the recycling cylinder to get maximum points. It is well documented so go start exploring!
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=141005) | [Robot Code on GitHub](https://github.com/Team4761/2015-Robot-Code) | [Team GitHub](https://github.com/Team4761) | [Team Website](http://www.robockets.org/)
+
 ## Team 4901: Garnet Squadron (LabVIEW)
 
 > * No old code yet, except a port of last years robot code from Java (not available) to LabVIEW. 

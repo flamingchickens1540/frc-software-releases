@@ -56,7 +56,7 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137843) | [Robot Code on GitHub](https://github.com/Team254/FRC-2015) | [Simulated robot hardware on GitHub](https://github.com/Team254/Sim-FRC-2015) | [Simulator on GitHub](https://github.com/tombot/FakeWPILib) | [GitHub](https://github.com/Team254)
 
-## Team 341: Miss Daisy (Java)
+## Team 341: Miss Daisy (Java/Command-Based)
 
 > 2012 Vision System Code. Robot software for 2015 game Recycle Rush.
 

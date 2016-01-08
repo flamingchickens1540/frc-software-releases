@@ -354,6 +354,14 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140892) | [Robot Code on GitHub](https://github.com/GarnetSquardon4901/FRC-4901-Garnet-Squadron) | [Team Website](http://garnetsquadron.com/)
 
+## Team 4915: Spartronics (Java/Command-Based)
+
+> Team 4915's Recycle Rush code.
+> Mostly contained in the `RobotCode` folder.
+> Our robot consisted of a grabber arm and an elevator to move the grabber up and down. Forklift-ish.
+
+[Robot Code on GitHub](https://github.com/spartronics4915/2015-recycle-rush) | [Team Website](http://spartronics4915.com)
+
 ## Team 4965: FIRE (Java/Command-Based)
 
 > Code for 2015 robot

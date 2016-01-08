@@ -5,6 +5,23 @@ Want to add something about your code, or don't like how your team's work shows 
 
 Also, note that it's not entirely clear that adding your code to this list is sufficient to count as a code release. You are recommended to create a Chief Delphi thread and then add your team's code to this list.
 
+# Contribution checklist
+
+Want to add yourself to this list? [Send a Pull Request.](https://github.com/flamingchickens1540/frc-software-releases/pulls)
+
+Please make sure that your submission:
+
+* Includes team number, team name, and software language.
+* Includes a short blurb about what's interesting in your code.
+* Includes a row of valid, working links to your repositories.
+* Does not put repository links into the blurb unless they point to specific files in the repositories included in the links.
+* Link to your Chief Delphi thread, if any. (They are highly recommended.)
+* Mimics existing entries in terms of formatting, including capitalization, line breaks, and order of common links.
+* Inserts your entry into the correct location in ascending order of team numbers
+* Does not attempt to change anything besides add your entry.
+
+***SUBMISSIONS WILL ONLY BE ACCEPTED VIA PULL-REQUEST***
+
 # Language & Framework List
 
 * LabVIEW

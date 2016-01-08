@@ -274,6 +274,12 @@ Please make sure that your submission:
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=136873) | [Robot Code on GitHub](https://github.com/2729StormRobotics/Storm2015) | [Arduino LED Code on GitHub](https://github.com/2729StormRobotics/StormArduino2015) | [Vision Code on GitHub](https://github.com/2729StormRobotics/Storm2015CV) | [GitHub](https://github.com/2729StormRobotics)
 
+## Team 2990: Hotwire Robotics (LabVIEW)
+
+> Nothing special. Tried introducing the NavX, but it was still in beta, so we decided not to use it at Worlds. We also implemented stops on our lift and a limit switch on the carriage so that it would know where it was (which "level").
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?p=1517773#post1517773) | [Robot Code on GitHub](https://github.com/HotwireRobotics/2015FRCRobot)
+
 ## Team 3019: Firebirds (Java/Command-Based)
 
 > I have decided to post our robot code on cd. Our robot has 4 encoders with an H omni wheel drive. We have a elevator on the front and a pneumatic claw and elevator on the rear.

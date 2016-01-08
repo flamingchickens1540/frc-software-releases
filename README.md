@@ -19,6 +19,7 @@ Please make sure that your submission:
 * Mimics existing entries in terms of formatting, including capitalization, line breaks, and order of common links.
 * Inserts your entry into the correct location in ascending order of team numbers
 * Does not attempt to change anything besides add your entry.
+* Does not accidentally remove others' entries.
 
 ***SUBMISSIONS WILL ONLY BE ACCEPTED VIA PULL-REQUEST***
 

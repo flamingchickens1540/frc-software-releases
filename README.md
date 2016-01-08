@@ -25,13 +25,14 @@ Please make sure that your submission:
 
 # Language & Framework List
 
-* LabVIEW
-* C++/WPILib
-* C++/Command-Based
-* Java/WPILib
-* Java/Command-Based
-* Java/CCRE
-* Python
+* LabVIEW (official)
+* C++/WPILib (official)
+* C++/Command-Based (official)
+* Java/WPILib (official)
+* Java/Command-Based (official)
+* Java/CCRE (3rd party)
+* C#/RobotDotNet (3rd party)
+* Python (3rd party)
 
 # 2015 season code
 
@@ -357,6 +358,18 @@ Please make sure that your submission:
 > This is the first year we used Python as the primary programming of the robot. The code is pretty basic for our lifter, but the code provides a decent template for future teams to try Python. We had a good experience with it because of the support of the developers of RobotPy.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140861) | [Robot Code on GitHub](https://github.com/bb20basketball/2015-Team4480-Code/)
+
+## Team 4488: ShockWave (LabVIEW & C#/RobotDotNet)
+
+> * Automatic alignment to the human player station using feedback from ultrasonic sensors
+> * Read constants from text files
+> * NavX Gyroscope, if anyone is wondering how to use it in LabVIEW
+> * Notify the stacker state machine to stop at any height greater than 2 totes from the dashboard
+serial communication with Arduino
+>
+> We made a version of our code in the off season to test feasibility of implementing [RobotDotNet](http://www.chiefdelphi.com/forums/showthread.php?threadid=140972) for competition.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140963) | [LabVIEW Robot Code on GitHub](https://github.com/shockwave4488/FRC-2015) | [C# Robot Code Rewrite on GitHub](https://github.com/shockwave4488/FRC2015-C-) | [Practice LabVIEW Robot Code on GitHub](https://github.com/shockwave4488/2015-Practice-Week-LV) | [Practice C# Robot Code on GitHub](https://github.com/shockwave4488/2015-Practice-Week-C-) | [C# Robotics Library on GitHub](https://github.com/shockwave4488/CSharpRoboticsLib) | [Java Robotics Library on GitHub](https://github.com/shockwave4488/JavaRoboticsLib)
 
 ## Team 4522: Team SCREAM (LabVIEW)
 

@@ -56,6 +56,14 @@ Also, note that it's not entirely clear that adding your code to this list is su
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137843) | [Robot Code on GitHub](https://github.com/Team254/FRC-2015) | [Simulated robot hardware on GitHub](https://github.com/Team254/Sim-FRC-2015) | [Simulator on GitHub](https://github.com/tombot/FakeWPILib) | [GitHub](https://github.com/Team254)
 
+## Team 341: Miss Daisy (Java)
+
+> 2012 Vision System Code. Robot software for 2015 game Recycle Rush.
+
+[2012 Vision System Code] (http://www.chiefdelphi.com/media/papers/2676) |
+[Robot Code on GitHub] (https://github.com/Team341Student/FRC2015)
+
+
 ## Team 423: Simple Machines (LabVIEW)
 
 > As our robot code approaches its zenith, I wanted to share it with the Chief Delphi community for people to learn from, possibly to get suggestions, and to show the world how the Simple Machines works. Nice and simple; our code is like our machines. Features: autonomous recorder and playback, mecanum driving, pneumatic elevator, and a cool dashboard.
@@ -339,12 +347,6 @@ Also, note that it's not entirely clear that adding your code to this list is su
 > Our robot has a mecanum drive train, an elevator, a telescoping arm, and a pneumatic claw. This is its code.
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=138078) | [Robot Code on GitHub](https://github.com/Terrorbytes/TB2015)
-
-## Team 4761: The Robockets (Java/Command-Based)
-
-> Our robot specialized in capping stacks of boxes with the recycling cylinder to get maximum points. This code features some interesting bits that were later turned into their own separate libraries, like the [sensors package](https://github.com/Team4761/2015-Robot-Code/tree/master/src/org/usfirst/frc/team4761/robot/sensors) and the [button management system](https://github.com/Team4761/2015-Robot-Code/blob/master/src/org/usfirst/frc/team4761/robot/ButtonManager.java). There is also the [gyro code](https://github.com/Team4761/2015-Robot-Code/blob/master/src/org/usfirst/frc/team4761/robot/sensors/GyroSensor.java) which adds some support for the I2C powered MPU-6050 gyro. It is in the command-based structure and pretty well documented so go start exploring!
-
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=141005) | [Robot Code on GitHub](https://github.com/Team4761/2015-Robot-Code) | [Team GitHub](https://github.com/Team4761) | [Team Website](http://www.robockets.org/)
 
 ## Team 4901: Garnet Squadron (LabVIEW)
 

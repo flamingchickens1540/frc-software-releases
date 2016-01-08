@@ -208,6 +208,12 @@ Please make sure that your submission:
 
 [Robot Code on GitHub](https://github.com/Nashoba-Robotics/Nashoba-Robotics2015) | [Ardunio Code on GitHub](https://github.com/Nashoba-Robotics/CoffinLED) | [GitHub](https://github.com/Nashoba-Robotics)
 
+## Team 1868: Space Cookies (C++/Command-Based)
+
+> This year, for the first time, we used mecanum drive and a "playback" autonomous. To implement a mecanum drive with minimal drift, we placed encoders on every wheel and PIDed each wheel individually. For the playback autonomous, we recorded driver station inputs on a text file in teleop and used the text file to repeat the same sequence of commands in autonomous.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?p=1517876) | [Robot Code on GitHub](https://github.com/team1868/SCcode2015)
+
 ## Team 1939: Kuhnigits (Java/Command-Based)
 
 > This year was exciting for the programming team. New control techniques such as PID were explored, and new Talon SRX speed controllers made programming and wiring easier. Our team believes heavily in the WPILib programming model of Subsystems and Commands. All of our code follows this Command Based model.

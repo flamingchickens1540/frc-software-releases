@@ -258,6 +258,18 @@ Please make sure that your submission:
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137180) | [Robot Code on GitHub](https://github.com/TripleHelixProgramming/recycle-rush/tree/working_branch) | [GitHub](https://github.com/TripleHelixProgramming)
 
+## Team 2465: Kauaibots (Java/Command-Based)
+
+> This is our offseason work to enhance our 2015 Mecanum / navX-MXP Robotics Navigation Sensor Drive System, featuring:
+> * Upgraded to support TalonSRX in speed mode
+> * Rotate to angle/Drive Straight PID Controller
+> * Field-centric drive
+> * Several Joystick response curves
+>
+> In a separate repository is a small bit of code to control a APA102C-based LED Array strip.
+
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=141008) | [Robot Code on GitHub](https://github.com/Kauaibots/FRC/tre...veMule2016/src) | [LED Array Driver Code on Github] (https://github.com/andrew-cadwallade...dressable-LEDs)
+
 ## Team 2481: Roboteers (C++/Command-Based)
 
 > A couple things we would like to call out are the 3 tote autonomous sequence and our fully autonomous stacker. We attribute much of our success to our automated sequences that allowed the drivers to focus on playing the game at a higher level.

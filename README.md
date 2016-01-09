@@ -449,3 +449,11 @@ serial communication with Arduino
 > * Current repository also includes some off-season work with pneumatics, [GradleRIO](https://github.com/Open-RIO/GradleRIO), and IntelliJ IDEA
 
 [Robot Code on GitHub](https://github.com/frc5687/Outlier1)
+
+## Team 987: HIGHROLLERS (C++/WPILib)
+
+> * This repo contains our 2015 release.
+>  * Raw arcade driving, and user-enabled gyro-assisted arcade driving.
+>  * .hrs (High Roller Script) files for auton and configuration
+
+[Robot Code on BitBucket](https://bitbucket.org/987Coders/987_2015_release/src)

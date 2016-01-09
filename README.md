@@ -75,6 +75,14 @@ Please make sure that your submission:
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=137843) | [Robot Code on GitHub](https://github.com/Team254/FRC-2015) | [Simulated robot hardware on GitHub](https://github.com/Team254/Sim-FRC-2015) | [Simulator on GitHub](https://github.com/tombot/FakeWPILib) | [GitHub](https://github.com/Team254)
 
+## Team 341: Miss Daisy (Java/Command-Based)
+
+> 2012 Vision System Code. Robot software for 2015 game Recycle Rush.
+
+[2012 Vision System Code] (http://www.chiefdelphi.com/media/papers/2676) |
+[Robot Code on GitHub] (https://github.com/Team341Student/FRC2015)
+
+
 ## Team 423: Simple Machines (LabVIEW)
 
 > As our robot code approaches its zenith, I wanted to share it with the Chief Delphi community for people to learn from, possibly to get suggestions, and to show the world how the Simple Machines works. Nice and simple; our code is like our machines. Features: autonomous recorder and playback, mecanum driving, pneumatic elevator, and a cool dashboard.

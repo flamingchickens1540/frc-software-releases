@@ -268,7 +268,7 @@ Please make sure that your submission:
 >
 > In a separate repository is a small bit of code to control a APA102C-based LED Array strip.
 
-[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=141008) | [Robot Code on GitHub](https://github.com/Kauaibots/FRC/tre...veMule2016/src) | [LED Array Driver Code on Github] (https://github.com/andrew-cadwallade...dressable-LEDs)
+[Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=141008) | [Robot Code on GitHub](https://github.com/Kauaibots/FRC/tree/master/Software/2016/DriveMule2016) | [LED Array Driver Code on Github] (https://github.com/andrew-cadwallader/APA102C-addressable-LEDs)
 
 ## Team 2481: Roboteers (C++/Command-Based)
 

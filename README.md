@@ -157,6 +157,14 @@ Please make sure that your submission:
 
 [Chief Delphi](http://www.chiefdelphi.com/forums/showthread.php?t=140895) | [Robot Code on GitHub](https://github.com/Team980/2015) | [GitHub](https://github.com/Team980)
 
+## Team 987: HIGHROLLERS (C++/WPILib)
+
+> * This repo contains our 2015 release.
+>  * Raw arcade driving, and user-enabled gyro-assisted arcade driving.
+>  * .hrs (High Roller Script) files for auton and configuration
+
+[Robot Code on BitBucket](https://bitbucket.org/987Coders/987_2015_release/src)
+
 ## Team 997: Spartan Robotics (Java/Command-Based)
 
 > Nothing special here. It does include our changes to support the 2016 Beta code. Only minor changes to our main code we used during the season.
@@ -450,10 +458,3 @@ serial communication with Arduino
 
 [Robot Code on GitHub](https://github.com/frc5687/Outlier1)
 
-## Team 987: HIGHROLLERS (C++/WPILib)
-
-> * This repo contains our 2015 release.
->  * Raw arcade driving, and user-enabled gyro-assisted arcade driving.
->  * .hrs (High Roller Script) files for auton and configuration
-
-[Robot Code on BitBucket](https://bitbucket.org/987Coders/987_2015_release/src)

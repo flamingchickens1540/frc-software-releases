@@ -375,6 +375,12 @@ Please make sure that your submission:
 
 [Robot Utilities on GitHub](https://github.com/ironmig/RiptideRecorder)
 
+## Team 4121: Vikings (C++/Command-Based)
+
+> The programing side of our robot for the 2015 FRC game, Recycle Rush. Built using C++.
+
+[Robot Code on GitHub](https://github.com/FRC-4121/2015-Robot)
+
 ## Team 4183: BitBuckets (Java/Command-Based)
 
 > This is the repository for the Bit Buckets FRC Team 4183 2015 build season source code.

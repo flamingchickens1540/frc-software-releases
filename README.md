@@ -221,9 +221,9 @@ Please make sure that your submission:
 
 ## Team 1768: Robochiefs (Java/Command-Based)
 
-> 2015's code features code to connect to an arduino over ethernet, PID with feed forward, and more.
+> 2015's code features code to connect to an arduino over ethernet, PID with feed forward, and more. The 2016 pre-season code notably features a CommandBased implementation that doesn't extend IterativeRobot.
 
-[Robot Code on GitHub](https://github.com/Nashoba-Robotics/Nashoba-Robotics2015) | [Ardunio Code on GitHub](https://github.com/Nashoba-Robotics/CoffinLED) | [GitHub](https://github.com/Nashoba-Robotics)
+[2015 Robot Code on GitHub](https://github.com/Nashoba-Robotics/Nashoba-Robotics2015) | [2016 Pre-Season Code on GitHub](https://github.com/Nashoba-Robotics/2016-Pre-Season-Drivetrain) | [Ardunio Code on GitHub](https://github.com/Nashoba-Robotics/CoffinLED) | [GitHub](https://github.com/Nashoba-Robotics)
 
 ## Team 1868: Space Cookies (C++/Command-Based)
 
